@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.red-color{
+    color: red;
+}
+.green-color{
+     color: #21B573;
+
+}
+h1{
+    font-size: 62px;
+    font-weight: bolder;
+}
